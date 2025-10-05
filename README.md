@@ -11,7 +11,7 @@
 
 *Explore VibeSDK Build before deploying your own stack.*
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/vibesdk)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/kelvinzer0/vibesdk-rn)
 
 **👆 Click to deploy your own instance!**
 
